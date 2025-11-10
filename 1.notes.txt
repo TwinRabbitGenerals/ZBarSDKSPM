@@ -1,0 +1,6 @@
+라이브러리 .a 뽑아서 xcframework로 전환
+
+xcodebuild -create-xcframework \
+    -library Distribution-iphoneos/libzbar.a \
+    -library Distribution-iphonesimulator/libzbar.a \
+    -output libzbar.xcframework
