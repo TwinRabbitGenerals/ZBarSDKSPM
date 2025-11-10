@@ -1,6 +1,6 @@
 #  ZBarSDKSPM
 
-ZBarSDK Swift Package Mangaer Version
+[iOS]Swift Package Manager support for ZBarSDK
 
 ref1 -https://github.com/ZBar/ZBar \
 ref2 - https://github.com/CaperWhite/ZBar \
